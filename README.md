@@ -83,3 +83,21 @@ ngrok http 2525
 ![image](https://github.com/user-attachments/assets/28142d07-a931-461e-9f9f-9a842d04a8fb)
 
 - Share the Ngrok-generated public URL with the target for interaction.
+
+
+4. **Gaining Access**
+- Upon the target's interaction with the shared link and granting permissions, the tool simulates access to the target's camera and microphone feeds.
+
+![image](https://github.com/user-attachments/assets/dd8a86c9-9ebc-49a6-a865-47cd56219df7)
+
+
+5. **Ethical Considerations**
+
+This project emphasizes the importance of ethical usage:
+- Educational and Testing Purposes Only: The demonstrated methods should be employed exclusively for learning and improving cybersecurity measures.
+- User Consent: Explicit user permission is mandatory before accessing any multimedia devices.
+- Compliance with Laws: The use of these tools must adhere to legal and ethical standards.
+
+
+# Conclusion
+The project successfully demonstrates the process of gaining camera and microphone access using Storm-Breaker and Ngrok in a controlled and ethical setting. It highlights the potential vulnerabilities associated with multimedia access and stresses the importance of robust security measures to protect user privacy.
